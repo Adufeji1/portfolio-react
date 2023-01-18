@@ -1,9 +1,7 @@
 import './Navbar.css'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faD } from '@fortawesome/free-solid-svg-icons';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons';
-import { faFacebook } from '@fortawesome/free-brands-svg-icons';
-import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+
 
 
 const Navbar = () => {
@@ -29,16 +27,11 @@ const Navbar = () => {
     </div>
 
     <div className='profileimg'>
-        <div className='iconstyle'>
-        <a href="https://twitter.com/Adufeeji1"><FontAwesomeIcon icon={faTwitter} className='icon'></FontAwesomeIcon></a>
-
-        <a href="https://web.facebook.com/olabiyi.damilolamary.7/"><FontAwesomeIcon icon={faFacebook} className='icon'></FontAwesomeIcon></a>
-
-        <a href="https://www.linkedin.com/in/damilola-awopegba-1685b4156/ "><FontAwesomeIcon icon={faLinkedinIn} className='icon'></FontAwesomeIcon></a>
+        
     </div>
 
     </div>
-    </div>
+
     </>
   )
 }

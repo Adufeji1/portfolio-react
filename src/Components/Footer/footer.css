@@ -1,0 +1,45 @@
+.footerbg {
+    background-image: linear-gradient(rgb(119, 115, 115), rgb(56, 99, 201));
+    width: 1300px;
+    height: 500px;
+}
+
+.hone {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+
+}
+
+.formclass {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.footerform {
+    background-color: black;
+    width: 600px;
+    height: 300px;
+    margin-left: 400px;
+    display: flex;
+    flex-direction: column;
+    
+} 
+
+.messageinput {
+    height: 300px;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+}
+
+btn:hover {
+    background-color: aliceblue;
+    color: brown;
+}

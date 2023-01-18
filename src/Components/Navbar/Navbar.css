@@ -1,5 +1,5 @@
 .bgnav {
-    background-image: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
+    background-image: linear-gradient(113.49deg, #181916 -30.3%, #d0d4e8 58.12%);
     position: relative;
     height: 850px;
     width: 1280px;
@@ -83,14 +83,16 @@ button.btnhire:hover {
     width: 700px;
     height: 150px;
     margin-left: 20px;
-    color:  black;
+    color: purple;
     animation-name: textarea;
     animation-duration: 7s;
     transition: width 6s height 10s;
-    background-color: white;
+    background-image: linear-gradient(white, rgba(11, 4, 35, 0));
     border-radius: 20px;
     text-align: center;
     padding-top: 5px;
+    font-style: italic;
+    font-weight: 600;
 }
 
 textp:hover {
@@ -101,7 +103,7 @@ textp:hover {
 
 @keyframes textarea {
     0% {color: black;}
-    25% {color: rgb(194, 38, 21);}
+    25% {color: rgb(223, 226, 36);}
     50% {color: blue;}
     100% {color: purple;}
     0% {color: black;}
@@ -116,22 +118,3 @@ textp:hover {
     top: 450px;
 }
 
-.iconstyle {
-    background-color: black;
-    height: 100px;
-    position: absolute;
-    right: -380px;
-    width: 1280px;
-    top: 400px;
-}
-
-.icon {
-    width: 50px;
-    height: 50px;
-    color: purple;
-    display: inline-flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding-top: 30px;
-    padding-left: 280px;
-}

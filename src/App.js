@@ -1,11 +1,19 @@
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
-import Contacts from './Components/Contacts/Contacts';
+import Skills from './Components/Skill/Skills';
+import Projects from './Components/Projects/Projects';
+import Footer from './Components/Footer/Footer';
+
+
 
 const App = () => {
   return (
+    <>
     <Navbar />
-    <Contacts />
+    <Skills />
+    <Projects />
+    <Footer />
+    </>
   )
 }
 

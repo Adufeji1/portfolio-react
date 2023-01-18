@@ -1,0 +1,123 @@
+.bgskills {
+    background-color: black;
+    width: 1300px;
+    height: 400px;
+    top: -20px;
+} 
+
+
+.textstyle1 {
+    color: rgb(194, 189, 51);
+    position: absolute;
+    top: 910px;
+    background-color: blue;
+    width: 50px;
+    box-shadow: 50px;
+    border-radius: 2px;
+    border-color: rgb(193, 141, 9);
+}
+
+.iconstyle1 {
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    color: rgb(159, 112, 23);
+    box-shadow: 10px 10px 5px #ccc;
+
+}
+
+.textstyle2 {
+    color: rgb(194, 189, 51);
+    position: absolute;
+    top: 910px;
+    background-color: blue;
+    width: 50px;
+    left: 400px;
+    box-shadow: 50px;
+    border-radius: 2px;
+    border-color: blueviolet;
+}
+
+.iconstyle2 {
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    color: rgb(159, 112, 23);
+    box-shadow: 10px 10px 5px #ccc;
+
+}
+
+.textstyle3 {
+    color: rgb(194, 189, 51);
+    position: absolute;
+    top: 910px;
+    background-color: blue;
+    width: 50px;
+    left: 800px;
+    box-shadow: 50px;
+    border-radius: 2px;
+    border-color: blueviolet;
+}
+
+.iconstyle3 {
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    color: rgb(159, 112, 23);
+    box-shadow: 10px 10px 5px #ccc;
+
+}
+
+.textstyle4 {
+    color: rgb(194, 189, 51);
+    position: absolute;
+    top: 1100px;
+    background-color: blue;
+    width: 50px;
+    left: 300px;
+    box-shadow: 50px;
+    border-radius: 2px;
+    border-color: blueviolet;
+}
+
+.iconstyle4 {
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    color: rgb(159, 112, 23);
+    box-shadow: 10px 10px 5px #ccc;
+
+}
+
+.textstyle5 {
+    color: rgb(194, 189, 51);
+    position: absolute;
+    top: 1100px;
+    background-color: blue;
+    width: 50px;
+    left: 700px;
+    box-shadow: 50px;
+    border-radius: 2px;
+    border-color: blueviolet;
+}
+
+.iconstyle5 {
+    height: 80px;
+    width: 200px;
+    left: 10px;
+    position: absolute;
+    color: rgb(159, 112, 23);
+    box-shadow: 10px 10px 5px #ccc;
+
+}
+
+.headingstyle {
+    color: greenyellow;
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    opacity: 0.2;
+    left: 500px;
+}

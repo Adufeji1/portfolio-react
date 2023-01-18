@@ -1,0 +1,157 @@
+.bgprojects {
+    background-image: linear-gradient(rgb(238, 242, 245), rgb(10, 10, 10));
+    height: 2000px;
+    width: 1300px;
+}
+
+.bgimg {
+    background-color: rgb(8, 7, 7);
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    display: flex;
+    opacity: .8;
+    align-items: center;
+    justify-content: center;
+    left: 500px;
+    margin-top: 5px;
+}
+
+.webdapp {
+    background-color: rgb(241, 240, 255);
+    background-image: url(/src/Image/web3dapp-website.png);
+    height: 200px;
+    width: 300px;
+    padding-top: 5px;
+    background-size: contain;
+}
+
+.bgimg2 {
+    background-color: black;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    display: flex;
+    opacity: .8;
+    align-items: center;
+    justify-content: center;
+    left: 500px;
+    margin-top: 450px;
+}
+.flower {
+    background-image: url(/src/Image/flowersignupform.png);
+    height: 300px;
+    width: 600px;
+    margin: 10px;
+    background-size: contain;
+}
+
+.ptext {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    margin-top: 300px;
+    animation-name: example;
+    animation-duration: 10s;
+    font-size: 18px;
+}
+
+@keyframes example {
+    from { -webkit-transform: translateX(100%); }
+    to { -webkit-transform: translateX(-100%); }
+  }
+
+.ptext1 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    margin-top: 170px;
+    animation-name: text2;
+    animation-duration: 10s;
+    font-size: 18px;
+}
+
+@keyframes text2 {
+    from { -webkit-transform: translateX(100%); }
+    to { -webkit-transform: translateX(-100%); }
+  }
+  
+
+
+.button {
+    background-color: rgb(214, 178, 47);
+    width: 100px;
+    height: 30px;
+    color: blueviolet;
+    font-size: 10px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover {
+    background-color: rgb(255, 0, 149);
+    color: antiquewhite;
+}
+
+.reviewApp {
+    background-image: url(/src/Image/review-app.png);
+    height: 300px;
+    width: 300px;
+    background-size: contain;
+}
+
+.review {
+    background-color: black;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    display: flex;
+    opacity: .8;
+    align-items: center;
+    justify-content: center;
+    left: 500px;
+    margin-top: 900px;
+    margin-right: 20px;
+}
+
+.text3 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    margin-top: 300px;
+    animation-name: example;
+    animation-duration: 10s;
+    font-size: 18px;
+}
+
+.projectwork {
+    text-align: center;
+    font-weight: 1500;
+    color: blue;
+
+}
+
+.universitywebsite {
+    background-image: url(/src/Image/University-website.png);
+    height: 300px;
+    width: 300px;
+    background-size: contain;   
+}
+
+.university {
+    background-color: black;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    display: flex;
+    opacity: .8;
+    align-items: center;
+    justify-content: center;
+    left: 500px;
+    margin-top: 1400px;
+    margin-right: 20px;
+}
